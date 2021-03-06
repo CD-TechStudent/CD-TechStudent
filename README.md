@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on, building out projects on my github
-- 🌱 I’m currently learning Unity3d
+- 🔭 I’m currently working on, Cloud Related Projecs
+- 🌱 I’m currently learning AWS Clouds Services
 - 👯 I’m looking to collaborate on , anything Data Science related
-- 🤔 I’m looking for help with, Unity3d
+- 🤔 I’m looking for help with, AWS Sagemaker
 - 💬 Ask me about, Spring Boot, AWS, and Wutang
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Wutang is for the children, and so am I!
